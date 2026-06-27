@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Equalizer Fader Rails Background -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,24 L34,84"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#2F354D" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,24 L54,84"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#2F354D" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M74,24 L74,84"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#2F354D" />
+
+    <!-- Active Rail Highlight (Glow cyan) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,54 L34,82"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#00E5FF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,34 L54,82"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#00E5FF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M74,64 L74,82"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#00E5FF" />
+
+    <!-- Fader Knob 1 (Glow/Outer) -->
+    <path
+        android:fillColor="#3D00E5FF"
+        android:pathData="M34,54m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <!-- Fader Knob 1 (Solid White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,54m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <!-- Fader Knob 1 (Cyan Core) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,54m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Fader Knob 2 (Glow/Outer) -->
+    <path
+        android:fillColor="#3D00E5FF"
+        android:pathData="M54,34m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <!-- Fader Knob 2 (Solid White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <!-- Fader Knob 2 (Cyan Core) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,34m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Fader Knob 3 (Glow/Outer) -->
+    <path
+        android:fillColor="#3D00E5FF"
+        android:pathData="M74,64m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <!-- Fader Knob 3 (Solid White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,64m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <!-- Fader Knob 3 (Cyan Core) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M74,64m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+</vector>

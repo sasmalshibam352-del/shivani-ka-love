@@ -1,0 +1,6 @@
+{
+  "name": "Sleek Equalizer",
+  "description": "A high-fidelity music equalizer app with interactive sliders, real-time responsive visualizer, customizable presets, and sleek neon dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
